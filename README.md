@@ -3,3 +3,8 @@
 
 ## 1. Objective
   Pyhton project at Hopkins
+  **bold**
+  *something*
+  - how can i add dot in the sentence?
+
+  
